@@ -1,0 +1,23 @@
+
+.box {
+  background-color: lightgrey;
+  border: 5px solid green;
+  margin: 5px;
+  color :red;
+  text-align: center;
+}
+h1 {
+   text-align : center;
+   color : black;
+   }
+
+}
+.categoris h2{
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+	padding-top: 20px;
+}
+
+
+
